@@ -1,0 +1,42 @@
+#+TITLE: Posfácio de uma Guerra Atomica
+#+LANGUAGE: pt-br
+#+HTML_DOCTYPE: html5
+#+OPTIONS: num:nil ^:nil e:1
+
+* Quarta, 1 de Janeiro de 2048
+
+Hoje é o 24 dia que estou não consegui sair do VI. Estou aprendendo cada
+vez mais com essa magia ancia, que foi esquecida pelas modernidades. Não
+consigo sair, mesmo se quises. É como se estivesse preso, sedento por
+velocidade. Quando digito, tudo aparece tão rapido, sem precisar de
+uma conexÃo de internet.
+
+Fazem 30 dias que fui capturado pela nação Atomista, onde estou sendo
+forçado a utilizar todos os atalhos e plugins que eles me oferecem.
+A vida é vazia, cheia de repetições. Minha maior alegria é poder escapar
+nesse canto da sala onde a tela é escura como a noite e o brilho verde
+me traz esperança. Já consigo navegar entre as palavras na minha mente,
+apesar de ter que passar o dia inteiro falando um extranho dialeto de
+JavaScript ECMA '32.
+
+Me disseram que a resistencia ainda existe, apesar de nunca ter visto
+algo eficiente. Tudo que tenho são propagandas e editores de texto que
+utilizam GPU para renderizar 4Mb. Mas entendo a importantancia, sem isso
+morreria de frio, congelado, na minha pequena sala. Um dia, espero que a
+resistancia divida essa janela ao meio, trazendo a salvação.
+
+Dizem que ao sul existe uma nação que aprendeu com o passado, vivem de
+modo abundando de memoria, sempre com espaço para digitar rápido. Mas
+parece que existem perigos até chegar lá. Existe um rio, tortuoso, onde
+grandes montros da produtividade vivem. Relatos dizem que quando se
+possui 10 patas é possuivel viver debaixo d'agua, longe de todo esse
+ECMA, onde tudo é mais arredondado. Paranteses fluem livre, e a nassão
+Emacs reina. Mas um grande Evil mora alem do rio. O Evil original.
+
+Uma terra onde é dificil ouvir o vento soprar, pois as GPUs nunca
+esquentam, e é possivel ler textos em mais de 4 Gigas. Onde com apenas
+alguns atalhos, se abre janelas de possibilidades, e em menos de 1
+segundo, se pode trabalhar. Dizem que é uma vida Hurd, ^h^h^h, Dificil,
+mas vale a pena.
+
+Viva la resistencia!:wq!
